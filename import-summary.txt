@@ -1,0 +1,147 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* README.md
+* app/
+* app/build.gradle
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/se/
+* app/src/main/java/se/kth/
+* app/src/main/java/se/kth/csc/
+* app/src/main/java/se/kth/csc/iprog/
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/Checkout.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/Checkout2.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/ChooseMenu.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/DinnerPlannerApplication.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/MainActivity.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/BackButtonView.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/CheckoutImages.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/CourseDescriptionView.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/Desert.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/ExampleView.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/IngredientView.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/MainCourse.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/TotalCost.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/btnNext.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/participants.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/android/view/starter.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/model/
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/model/DinnerModel.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/model/Dish.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/model/IDinnerModel.java
+* app/src/main/java/se/kth/csc/iprog/dinnerplanner/model/Ingredient.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/ic_launcher.png
+* app/src/main/res/drawable-xxhdpi/
+* app/src/main/res/drawable-xxhdpi/ic_launcher.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/bakedbrie.jpg
+* app/src/main/res/drawable/icecream.jpg
+* app/src/main/res/drawable/meatballs.jpg
+* app/src/main/res/drawable/sourdough.jpg
+* app/src/main/res/drawable/toast.jpg
+* app/src/main/res/layout/
+* app/src/main/res/layout/activity_checkout.xml
+* app/src/main/res/layout/activity_checkout2.xml
+* app/src/main/res/layout/activity_choose.xml
+* app/src/main/res/layout/activity_main.xml
+* app/src/main/res/layout/back_button.xml
+* app/src/main/res/layout/checkout_images.xml
+* app/src/main/res/layout/course_description_view.xml
+* app/src/main/res/layout/desert_view.xml
+* app/src/main/res/layout/example_view.xml
+* app/src/main/res/layout/ingredients_view.xml
+* app/src/main/res/layout/maincourse_view.xml
+* app/src/main/res/layout/next_button.xml
+* app/src/main/res/layout/number_of_guests.xml
+* app/src/main/res/layout/participants.xml
+* app/src/main/res/layout/popup.xml
+* app/src/main/res/layout/starter_view.xml
+* app/src/main/res/layout/total_cost_view.xml
+* app/src/main/res/values-sw600dp/
+* app/src/main/res/values-sw600dp/dimens.xml
+* app/src/main/res/values-sw720dp-land/
+* app/src/main/res/values-sw720dp-land/dimens.xml
+* app/src/main/res/values-v11/
+* app/src/main/res/values-v11/styles.xml
+* app/src/main/res/values-v14/
+* app/src/main/res/values-v14/styles.xml
+* app/src/main/res/values/
+* app/src/main/res/values/dimens.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/styles.xml
+* build.gradle
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
